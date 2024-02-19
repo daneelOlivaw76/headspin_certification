@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppiumAUT>
+  <XCUIElementTypeApplication type="XCUIElementTypeApplication" name="TheApp" label="TheApp" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+    <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+        <XCUIElementTypeNavigationBar type="XCUIElementTypeNavigationBar" name="The App" enabled="true" visible="true" accessible="false" x="0" y="44" width="375" height="44" index="0">
+          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="The App" name="The App" label="The App" enabled="true" visible="true" accessible="true" x="154" y="55" width="67" height="21" index="0"/>
+        </XCUIElementTypeNavigationBar>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="812" index="1">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="0" width="375" height="812" index="0">
+            <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+              <XCUIElementTypeOther type="XCUIElementTypeOther" name="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+                <XCUIElementTypeOther type="XCUIElementTypeOther" name="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+                  <XCUIElementTypeOther type="XCUIElementTypeOther" name="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+                    <XCUIElementTypeOther type="XCUIElementTypeOther" name="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" label="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo Vertical scroll bar, 1 page Horizontal scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+                      <XCUIElementTypeScrollView type="XCUIElementTypeScrollView" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="724" index="0">
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" name="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo" label="Choose An Awesome View Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo" enabled="true" visible="true" accessible="false" x="0" y="88" width="375" height="528" index="0">
+                          <XCUIElementTypeStaticText type="XCUIElementTypeStaticText" value="Choose An Awesome View" name="Choose An Awesome View" label="Choose An Awesome View" enabled="true" visible="true" accessible="true" x="0" y="88" width="375" height="33" index="0"/>
+                          <XCUIElementTypeOther type="XCUIElementTypeOther" name="Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo" label="Echo Box Login Screen Clipboard Demo Webview Demo List Demo Photo Demo Geolocation Demo Picker Demo" enabled="true" visible="true" accessible="false" x="0" y="120" width="375" height="496" index="1">
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Echo Box" label="Echo Box" enabled="true" visible="true" accessible="true" x="0" y="121" width="375" height="63" index="0"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Login Screen" label="Login Screen" enabled="true" visible="true" accessible="true" x="0" y="183" width="375" height="63" index="1"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Clipboard Demo" label="Clipboard Demo" enabled="true" visible="true" accessible="true" x="0" y="245" width="375" height="62" index="2"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Webview Demo" label="Webview Demo" enabled="true" visible="true" accessible="true" x="0" y="307" width="375" height="62" index="3"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="List Demo" label="List Demo" enabled="true" visible="true" accessible="true" x="0" y="368" width="375" height="63" index="4"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Photo Demo" label="Photo Demo" enabled="true" visible="true" accessible="true" x="0" y="430" width="375" height="62" index="5"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Geolocation Demo" label="Geolocation Demo" enabled="true" visible="true" accessible="true" x="0" y="492" width="375" height="62" index="6"/>
+                            <XCUIElementTypeOther type="XCUIElementTypeOther" name="Picker Demo" label="Picker Demo" enabled="true" visible="true" accessible="true" x="0" y="553" width="375" height="63" index="7"/>
+                          </XCUIElementTypeOther>
+                        </XCUIElementTypeOther>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Vertical scroll bar, 1 page" label="Vertical scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="342" y="88" width="30" height="724" index="1"/>
+                        <XCUIElementTypeOther type="XCUIElementTypeOther" value="0%" name="Horizontal scroll bar, 1 page" label="Horizontal scroll bar, 1 page" enabled="true" visible="true" accessible="false" x="0" y="779" width="375" height="30" index="2"/>
+                      </XCUIElementTypeScrollView>
+                    </XCUIElementTypeOther>
+                  </XCUIElementTypeOther>
+                </XCUIElementTypeOther>
+              </XCUIElementTypeOther>
+            </XCUIElementTypeOther>
+          </XCUIElementTypeOther>
+        </XCUIElementTypeOther>
+      </XCUIElementTypeOther>
+    </XCUIElementTypeWindow>
+  </XCUIElementTypeApplication>
+</AppiumAUT>
+
